@@ -1,5 +1,3 @@
 add branch
 
-modify README from laptop
-
-modify README from master
+modify README from lapto
